@@ -6,3 +6,4 @@ joblib
 pandas
 scikit-learn
 python-multipart
+shap==0.45.0
