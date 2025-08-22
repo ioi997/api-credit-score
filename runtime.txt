@@ -1,3 +1,1 @@
-setuptools>=65.5.0
-wheel
-python-3.10.13
+python-3.10.12
