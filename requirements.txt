@@ -1,7 +1,7 @@
 setuptools>=65.5.0
 wheel
-fastapi
-uvicorn
+fastapi==0.110.0
+uvicorn==0.29.0
 joblib
 pandas
 scikit-learn
