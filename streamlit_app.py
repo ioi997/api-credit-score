@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 
 # ========== CONFIG ==========
 st.set_page_config(page_title="💳 Dashboard Néo-Banque", layout="wide")
-API_URL = os.environ.get("API_URL", "http://localhost:8000")
+API_URL = "https://api-credit-score-muvd.onrender.com"
 BASE_DIR = Path(__file__).resolve().parent
 META_PATH = BASE_DIR / "model" / "artifacts" / "model_meta.json"
 
